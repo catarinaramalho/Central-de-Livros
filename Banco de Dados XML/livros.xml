@@ -1,0 +1,156 @@
+<Livros>
+  <Livro>
+    <nome>A Elite</nome>
+    <autor>Kiera Cass</autor>
+    <editora>Seguinte</editora>
+    <preco>45.0</preco>
+    <quantidade>100685</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Fazendo Meu Filme</nome>
+    <autor>Paula Pimenta</autor>
+    <editora>Companhia das Letras</editora>
+    <preco>50.0</preco>
+    <quantidade>719923687</quantidade>
+  </Livro>
+  <Livro>
+    <nome>A amarelinha</nome>
+    <autor>Joana Lima</autor>
+    <editora>Seguinte</editora>
+    <preco>45.0</preco>
+    <quantidade>23</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Ilha do Paraíso</nome>
+    <autor>J. lo</autor>
+    <editora>Soares</editora>
+    <preco>45.0</preco>
+    <quantidade>20</quantidade>
+  </Livro>
+  <Livro>
+    <nome>a minha vida é pecar</nome>
+    <autor>nelson rodrigues</autor>
+    <editora>negão</editora>
+    <preco>100.0</preco>
+    <quantidade>52</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Obsessão Sombria</nome>
+    <autor>Geovana Stefani</autor>
+    <editora>Seguinte</editora>
+    <preco>55.5</preco>
+    <quantidade>3</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Arte de enganar</nome>
+    <autor>Kevin D. Mitnick</autor>
+    <editora>Pearson</editora>
+    <preco>200.0</preco>
+    <quantidade>3</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Assassin&apos;s Creed</nome>
+    <autor>Ubisoft</autor>
+    <editora>Brasil</editora>
+    <preco>30.0</preco>
+    <quantidade>2</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Tratado sobre liberdade</nome>
+    <autor>John Locke</autor>
+    <editora>Seila</editora>
+    <preco>50.0</preco>
+    <quantidade>60</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Quando a Noite cai</nome>
+    <autor>Carina Rissi</autor>
+    <editora>Arqueiro</editora>
+    <preco>45.0</preco>
+    <quantidade>8</quantidade>
+  </Livro>
+  <Livro>
+    <nome>A arca de ninguém</nome>
+    <autor>Lara Sophia</autor>
+    <editora>Sipione</editora>
+    <preco>41.0</preco>
+    <quantidade>43</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Biologia hoje</nome>
+    <autor>Sérgio</autor>
+    <editora>Átila</editora>
+    <preco>77.0</preco>
+    <quantidade>99</quantidade>
+  </Livro>
+  <Livro>
+    <nome>A Seleção</nome>
+    <autor>Kiera Cass</autor>
+    <editora>Seguinte</editora>
+    <preco>50.0</preco>
+    <quantidade>50</quantidade>
+  </Livro>
+  <Livro>
+    <nome>O pequeno príncipe</nome>
+    <autor>Antoine de Saint-Exupéry</autor>
+    <editora>Giranda Cultural</editora>
+    <preco>25.0</preco>
+    <quantidade>6</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Princesa Adormecida</nome>
+    <autor>Paula Pimenta</autor>
+    <editora>Galera</editora>
+    <preco>30.0</preco>
+    <quantidade>50</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Cinderela Pop</nome>
+    <autor>Paula Pimenta</autor>
+    <editora>Galera</editora>
+    <preco>30.0</preco>
+    <quantidade>40</quantidade>
+  </Livro>
+  <Livro>
+    <nome>A cinco passos de você</nome>
+    <autor>Tobias Iaconis</autor>
+    <editora>Globo Alt</editora>
+    <preco>36.0</preco>
+    <quantidade>30</quantidade>
+  </Livro>
+  <Livro>
+    <nome>O futuro de nós dois</nome>
+    <autor>Jay Asher</autor>
+    <editora>Galera</editora>
+    <preco>10.0</preco>
+    <quantidade>9</quantidade>
+  </Livro>
+  <Livro>
+    <nome>O jardim das borboletas</nome>
+    <autor>Dot Hutchison</autor>
+    <editora>Planeta</editora>
+    <preco>45.0</preco>
+    <quantidade>10</quantidade>
+  </Livro>
+  <Livro>
+    <nome>O labirinto do fauno</nome>
+    <autor>Cornelia Funke</autor>
+    <editora>Intrínseca</editora>
+    <preco>80.0</preco>
+    <quantidade>20</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Antes que eu vá</nome>
+    <autor>Lauren Oliver</autor>
+    <editora>Intrínseca</editora>
+    <preco>90.0</preco>
+    <quantidade>1</quantidade>
+  </Livro>
+  <Livro>
+    <nome>Não desista de seus sonhos</nome>
+    <autor>Augusto Cury</autor>
+    <editora>Academia</editora>
+    <preco>77.0</preco>
+    <quantidade>7</quantidade>
+  </Livro>
+</Livros>

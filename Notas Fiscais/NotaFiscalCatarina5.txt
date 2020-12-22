@@ -1,0 +1,23 @@
+____________________________________
+         CENTRAL DE LIVROS          
+
+CNPJ: 02.777.444/8888-55
+
+               CUPOM                
+Data/Hora: 25/11/2019 18:12
+Cliente: Catarina
+------------------------------------
+PRODUTO       QUANTIDADE       PREÇO
+------------------------------------
+Quando a No...     1            R$45
+A Elite            1            R$45
+Fazendo Meu...     1            R$50
+Minha vida ...     1            R$50
+Biologia ho...     1            R$77
+------------------------------------
+Total:                       R$267.0
+
+      OBRIGADO, VOLTE SEMPRE!
+____________________________________
+
+

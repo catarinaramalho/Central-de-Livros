@@ -1,0 +1,34 @@
+<Funcionarios>
+  <Funcionario>
+    <login>Geise</login>
+    <senha>47845</senha>
+  </Funcionario>
+  <Funcionario>
+    <login>clezia</login>
+    <senha>123456</senha>
+  </Funcionario>
+  <Funcionario>
+    <login>Joana</login>
+    <senha>156</senha>
+  </Funcionario>
+  <Funcionario>
+    <login>José</login>
+    <senha>147</senha>
+  </Funcionario>
+  <Funcionario>
+    <login>América</login>
+    <senha>85</senha>
+  </Funcionario>
+  <Funcionario>
+    <login>Clarice</login>
+    <senha>157</senha>
+  </Funcionario>
+  <Funcionario>
+    <login>Mari</login>
+    <senha>tt78</senha>
+  </Funcionario>
+  <Funcionario>
+    <login>Andrea</login>
+    <senha>159</senha>
+  </Funcionario>
+</Funcionarios>

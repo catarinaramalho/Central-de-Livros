@@ -1,0 +1,164 @@
+<Compras>
+  <Compra>
+    <data>25/11/2019 09:31</data>
+    <livrosComprados>A Elite(3)| </livrosComprados>
+    <total>135.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 10:04</data>
+    <livrosComprados>A Elite(1)| </livrosComprados>
+    <total>45.0</total>
+    <cliente>isa</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 10:18</data>
+    <livrosComprados>A Elite(1)| </livrosComprados>
+    <total>45.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 10:46</data>
+    <livrosComprados>A Elite(1)| </livrosComprados>
+    <total>45.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 10:46</data>
+    <livrosComprados>A Elite(1)| </livrosComprados>
+    <total>45.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 11:06</data>
+    <livrosComprados>A Elite(1)| </livrosComprados>
+    <total>45.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 11:06</data>
+    <livrosComprados>A Elite(1)| </livrosComprados>
+    <total>45.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 11:07</data>
+    <livrosComprados>A Elite(6)| </livrosComprados>
+    <total>270.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 11:08</data>
+    <livrosComprados>A Escolha(1)| </livrosComprados>
+    <total>45.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 11:10</data>
+    <livrosComprados>A Elite(1)| </livrosComprados>
+    <total>45.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 11:11</data>
+    <livrosComprados>Fazendo Meu Filme(1)| </livrosComprados>
+    <total>50.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 11:13</data>
+    <livrosComprados>Fazendo Meu Filme(1)| </livrosComprados>
+    <total>50.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 18:06</data>
+    <livrosComprados>Ilha do Paraíso(2)| </livrosComprados>
+    <total>90.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 18:07</data>
+    <livrosComprados>A Elite(1)| </livrosComprados>
+    <total>45.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>25/11/2019 18:12</data>
+    <livrosComprados>Quando a Noite cai(1)| A Elite(1)| Fazendo Meu Filme(1)| Minha vida fora de série(1)| Biologia hoje(1)| </livrosComprados>
+    <total>267.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>28/11/2019 14:05</data>
+    <livrosComprados>Biologia hoje(1)| Ilha do Paraíso(1)| </livrosComprados>
+    <total>122.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>28/11/2019 20:07</data>
+    <livrosComprados>A Escolha(2)| </livrosComprados>
+    <total>90.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>28/11/2019 20:35</data>
+    <livrosComprados>A Elite(1)| </livrosComprados>
+    <total>45.0</total>
+    <cliente>Raiff</cliente>
+  </Compra>
+  <Compra>
+    <data>29/11/2019 16:37</data>
+    <livrosComprados>A Seleção(13)| </livrosComprados>
+    <total>650.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>29/11/2019 17:26</data>
+    <livrosComprados>Obsessão Sombria(1)| </livrosComprados>
+    <total>55.5</total>
+    <cliente>Geovana</cliente>
+  </Compra>
+  <Compra>
+    <data>01/12/2019 10:51</data>
+    <livrosComprados>Obsessão Sombria(1)| </livrosComprados>
+    <total>55.5</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+  <Compra>
+    <data>03/12/2019 22:06</data>
+    <livrosComprados>O labirinto do fauno(12) | A Elite(2) | </livrosComprados>
+    <total>1050.0</total>
+    <cliente>Ana</cliente>
+  </Compra>
+  <Compra>
+    <data>03/12/2019 22:24</data>
+    <livrosComprados>Cinderela Pop(9) | Biologia hoje(1) | Princesa Adormecida(1) | O labirinto do fauno(11) | </livrosComprados>
+    <total>1257.0</total>
+    <cliente>Daniela</cliente>
+  </Compra>
+  <Compra>
+    <data>03/12/2019 22:25</data>
+    <livrosComprados>A Elite(1) | </livrosComprados>
+    <total>45.0</total>
+    <cliente>Daniela</cliente>
+  </Compra>
+  <Compra>
+    <data>03/12/2019 22:38</data>
+    <livrosComprados>A Seleção(12) | A cinco passos de você(2) | O labirinto do fauno(1) | </livrosComprados>
+    <total>752.0</total>
+    <cliente>Julia</cliente>
+  </Compra>
+  <Compra>
+    <data>03/12/2019 22:38</data>
+    <livrosComprados>A Elite(1) | </livrosComprados>
+    <total>45.0</total>
+    <cliente>Julia</cliente>
+  </Compra>
+  <Compra>
+    <data>04/12/2019 05:17</data>
+    <livrosComprados>A Seleção(2) | </livrosComprados>
+    <total>100.0</total>
+    <cliente>Catarina</cliente>
+  </Compra>
+</Compras>
